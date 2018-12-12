@@ -1,0 +1,4 @@
+#Tue Dec 11 11:29:02 ICT 2018
+base.0=/Users/silasan/Desktop/App-Project/appdigitalmenu/build/app/intermediates/transforms/dexMerger/debug/0
+path.0=classes.dex
+renamed.0=classes.dex
